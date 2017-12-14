@@ -2,7 +2,8 @@ img{
     width: 100%;
 }
 
-.panel-body{
+#profile{
     background-color: teal;
     border-radius: 40px;
+    margin-top: 40px;
 }
